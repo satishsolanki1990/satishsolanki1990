@@ -11,7 +11,7 @@ solving problem of data science projects, DS and Algo on leetcode and, SQL on Ha
 ranging from simple linear regression to advance deep learning.
 
 - 🔭 I’m currently working on the end-to-end development of an 
-Optical Character Recognition model using perceptron.
+House Price Prediction model.
 
 - 📫 **Reach out to me:**
     
