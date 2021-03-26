@@ -10,8 +10,7 @@ solving problem of data science projects, DS and Algo on leetcode and, SQL on Ha
 - 🌱 I am currently a graduate student and have done several data science projects 
 ranging from simple linear regression to advance deep learning.
 
-- 🔭 I’m currently working on the end-to-end development of an 
-House Price Prediction model.
+- 🔭 I’m currently working on deployment of the House Price Prediction model.
 
 - 📫 **Reach out to me:**
     
