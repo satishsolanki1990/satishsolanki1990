@@ -3,14 +3,7 @@
 
 # Hi, I'm [Satish](https://www.linkedin.com/in/satish-solanki-7715394b/) 👋
 
-I am a Data Scientist, Data Analyst and Machine Learning Engineer.
-I love deriving valuable and complex insights from data. Most of my time goes to 
-solving problem of data science projects, DS and Algo on leetcode and, SQL on HackerRank.
-
-- 🌱 I am currently a graduate student and have done several data science projects 
-ranging from simple linear regression to advance deep learning.
-
-- 🔭 I’m currently working on deployment of the House Price Prediction model.
+I am a Data Science Engineer at Baffle, where I am working on implementing various features to operate on encrypted values in Postgres Database using PostgreSQL command. Other than that I spend most of my time in learning and solving problem of data science projects, DS and Algo on leetcode and, SQL on HackerRank.
 
 - 📫 **Reach out to me:**
     
@@ -20,12 +13,11 @@ ranging from simple linear regression to advance deep learning.
 
 ## Skills
 
-**Programming Languages:** Python (Pandas, NumPy, Scikit-learn), SQL, R
+**Programming Languages:** Java, C, C++, SQL, Python (Pandas, NumPy, Scikit-learn), R
 
 **Machine Learning:** Linear Models, SVM, Decsion Tree, Random Forest
 
 **Deep Learning:** CNNs (PyTorch), Computer Vision (Image Recognition, ResNet)
 
 **Data Visualization:** Matplotlib, Seaborn,Pandas
-
 
