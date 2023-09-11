@@ -3,7 +3,8 @@
 
 # Hi, I'm [Satish](https://www.linkedin.com/in/satish-solanki-7715394b/) 👋
 
-I am a Data Science Engineer at Baffle, where I am working on implementing various features to operate on encrypted values in Postgres Database using PostgreSQL command. Other than that I spend most of my time in learning and solving problem of data science projects, DS and Algo on leetcode and, SQL on HackerRank.
+I am a Data Science Engineer at Baffle, where I am working on implementing various features to operate on encrypted values in the Postgres Database.  
+Other than that I spend most of my time reading the latest developments in the AI realm and solving problems of data science projects wherever I can find.
 
 - 📫 **Reach out to me:**
     
@@ -20,4 +21,3 @@ I am a Data Science Engineer at Baffle, where I am working on implementing vario
 **Deep Learning:** CNNs (PyTorch), Computer Vision (Image Recognition, ResNet)
 
 **Data Visualization:** Matplotlib, Seaborn,Pandas
-
