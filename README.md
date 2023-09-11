@@ -8,9 +8,9 @@ Other than that I spend most of my time reading the latest developments in the A
 
 - 📫 **Reach out to me:**
     
-    [Email: satishsolanki1990@gmail.com](satishsolanki1990@gmail.com)
+    - [satishsolanki1990@gmail.com](satishsolanki1990@gmail.com)
   
-    [LinkedIn](https://www.linkedin.com/in/satish-solanki-7715394b/)
+    - [LinkedIn](https://www.linkedin.com/in/satish-solanki-7715394b/)
 
 ## Skills
 
