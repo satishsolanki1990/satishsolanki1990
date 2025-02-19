@@ -3,10 +3,11 @@
 
 # Hi, I'm [Satish](https://www.linkedin.com/in/satish-solanki-7715394b/) 👋
 
-I'm Satish, a Data Science & Software Engineering professional with 3.5 years of experience where I am working on implementing various features to operate on encrypted values in the Postgres Database.  
-Other than that I spend most of my time reading the latest developments in the AI realm and solving problems of data science projects wherever I can find.
+I'm a Data Science and Software Engineering professional with 3.5 years of experience and a proven ability to develop machine learning models, enhance data security, automate testing, and optimize data pipelines for efficient analytics solutions. I am proficient in Python, Java, Rust, and PostgreSQL, and I have strong experience in data analytics and visualization. I am currently pursuing an MBA in data analytics to strengthen my leadership and business acumen.
+.  
+Other than that, I spend most of my time reading about the latest developments in AI and solving problems in data science projects wherever I can.
 
-I have thrived in a fast-paced environment where I've taken ownership of complete data solutions, collaborated extensively with cross-functional teams, and ensured that data-driven insights support business objectives. 
+I have thrived in a fast-paced environment, where I have taken ownership of complete data solutions, collaborated extensively with cross-functional teams, and ensured that data-driven insights support business objectives. 
 
 
 
