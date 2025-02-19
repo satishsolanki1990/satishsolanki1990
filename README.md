@@ -19,9 +19,15 @@ I have thrived in a fast-paced environment where I've taken ownership of complet
 ## Skills
 
 **Programming Languages:** Python, Java, Rust, C, C++, Go, Bash
+
 **Database Technology:** pgAdmin, Postman, PostgreSQL, MySQL
+
 **AWS  & DevOps tools:** EC2, RDS, SageMaker, S3, CloudWatch, CloudFormation,  Azure, Docker, Kubernetes 
+
 **Software Development Tools:** Git, GitHub Actions, CI/CD, GDB, Jenkins, Prometheus, Datadog, JMX,  Jira, Jenkins
+
 **Software Engineering Concepts:** Software Development Life Cycle (SDLC), Observability, Monitoring, QA, Caching
+
 **Data Visualization:** Pandas, Matplotlib, Seaborn
+
 **Machine Learning and AI:** PyTorch, Tensorflow, LLMs, Computer Vision, Deep Learning, Linear Regression, Logistic Regression, SVM, Perceptron, KNN, Decision Tree, Random Forest, Neural Networks (MLP, CNN)
