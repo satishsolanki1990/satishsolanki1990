@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-# Hi, I'm [Satish](https://www.linkedin.com/in/satish-solanki-7715394b/) 👋
+# I'm [Satish](https://www.linkedin.com/in/satish-solanki-7715394b/) 👋
 
 I'm a Data Science and Software Engineering professional with 3.5 years of experience and a proven ability to develop machine learning models, enhance data security, automate testing, and optimize data pipelines for efficient analytics solutions. I am proficient in Python, Java, Rust, and PostgreSQL, and I have strong experience in data analytics and visualization. I am currently pursuing an MBA in data analytics to strengthen my leadership and business acumen.
 .  
