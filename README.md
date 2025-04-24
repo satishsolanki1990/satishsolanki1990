@@ -10,13 +10,6 @@ Other than that, I spend most of my time reading about the latest developments i
 I have thrived in a fast-paced environment, where I have taken ownership of complete data solutions, collaborated extensively with cross-functional teams, and ensured that data-driven insights support business objectives. 
 
 
-
-- 📫 **Reach out to me:**
-    
-    - [satishsolanki1990@gmail.com](satishsolanki1990@gmail.com)
-  
-    - [LinkedIn](https://www.linkedin.com/in/satish-solanki/)
-
 ## Skills
 
 **Programming Languages:** Python, Java, Rust, C, C++, Go, Bash
